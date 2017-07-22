@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 50px;
+}
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 42px;
+  text-align: center;
+}
+p {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+a {
+  color: Aquamarine;
+  font-family: Verdana;
+  font-size: 16px;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin: auto;
+}
+.footer {
+  text-align: right;
+}
+.phone-ouline {
+  margin-top: 20px; 
+}
